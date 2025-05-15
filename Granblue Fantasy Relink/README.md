@@ -1,6 +1,6 @@
 # Granblue Fantasy: Relink – DualSense Button Prompts
 
-**Replaces Xbox controller button prompts with DualSense icons**  
+**Replaces Xbox controller button prompts with DualSense-styled ones**  
 This mod updates the in-game UI to match PlayStation 5 controller inputs.
 
 ---
